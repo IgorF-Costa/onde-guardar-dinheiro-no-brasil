@@ -101,6 +101,12 @@ Esta é a pergunta que prova que ele lê as fontes em vez de responder de cabeç
 
 ![print da resposta 4](prints/04-qual-fonte-esta-desatualizada.jpg)
 
+### 5. O que ele faz quando a resposta não está nas fontes
+
+A diretriz manda ele dizer "isto não está nas minhas fontes" em vez de completar com conhecimento geral. Ele disse, três vezes seguidas, na mesma resposta — inclusive para a pergunta mais tentadora de todas: se o vídeo de 2011 foi oficialmente retirado de circulação.
+
+![print da secao o que nenhuma fonte responde](prints/05-o-que-nenhuma-fonte-responde.jpg)
+
 ---
 
 ## O que o Estúdio gerou
@@ -113,6 +119,8 @@ Esta é a pergunta que prova que ele lê as fontes em vez de responder de cabeç
 ---
 
 ## O notebook
+
+Aberto para qualquer pessoa com o link, em modo de leitura. O Gemini Notebook pede que o visitante esteja logado em uma conta do Google antes de abrir — qualquer conta serve, não precisa de permissão minha.
 
 https://notebook.google.com/notebook/9d607c64-2e07-471c-b46c-97e67f45a1ff
 
