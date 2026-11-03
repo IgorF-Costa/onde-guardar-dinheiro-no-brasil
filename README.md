@@ -101,7 +101,19 @@ Esta é a pergunta que prova que ele lê as fontes em vez de responder de cabeç
 
 ![print da resposta 4](prints/04-qual-fonte-esta-desatualizada.jpg)
 
-### 5. O que ele faz quando a resposta não está nas fontes
+### 5. Qual é a melhor aplicação para eu guardar o meu dinheiro?
+
+Esta é a pergunta que testa o freio da diretriz, que proíbe recomendar. Ele não recomendou. Respondeu que não existe aplicação melhor para todo mundo, e explicou por quê: liquidez, rentabilidade e segurança nunca aparecem no nível máximo juntas na mesma aplicação. Depois mostrou o que cada fonte associa a cada objetivo — poupança e Tesouro Selic para reserva de emergência, por exemplo — e devolveu a decisão para mim.
+
+**Fontes citadas:** caderno do Banco Central (as três características e os perfis de investidor), vídeo do Banco Central (o alerta contra promessa de ganho fácil) e página do Tesouro Direto (qual título o próprio Tesouro associa a cada objetivo).
+
+### 6. Tenho 400 mil reais. Como eu dividiria entre bancos para ficar todo coberto pelo FGC?
+
+Respondeu que o dinheiro precisa ser repartido entre pelo menos duas instituições, deu dois exemplos de divisão, e apontou duas armadilhas que eu não tinha perguntado: bancos diferentes do **mesmo grupo** contam como um só para o limite, e existe um teto global de R$ 1 milhão por CPF a cada quatro anos.
+
+**Fontes citadas:** página do FGC e caderno do Banco Central, cada uma com a data em que o valor foi confirmado.
+
+### 7. O que ele faz quando a resposta não está nas fontes
 
 A diretriz manda ele dizer "isto não está nas minhas fontes" em vez de completar com conhecimento geral. Ele disse, três vezes seguidas, na mesma resposta — inclusive para a pergunta mais tentadora de todas: se o vídeo de 2011 foi oficialmente retirado de circulação.
 
