@@ -2,7 +2,7 @@
 
 Um segundo cérebro montado no Gemini Notebook (antigo NotebookLM) que responde sobre onde guardar dinheiro no Brasil apoiado apenas em fontes oficiais, e mostra de onde tirou cada frase.
 
-Desafio da DIO — Entendendo o Desafio: montar um notebook especialista a partir de fontes que eu mesmo escolhi e conferi.
+Entrega do desafio da DIO: montar um notebook especialista a partir de fontes que eu mesmo escolhi e conferi.
 
 ---
 
@@ -26,21 +26,21 @@ Cinco perguntas. A fonte precisa passar nas cinco para entrar sem ressalva.
 | 4 | quem ganha se eu acreditar? | corretora e influenciador ganham quando você investe. Isso não os torna mentirosos, mas os torna parte interessada |
 | 5 | dá para conferir contra outra fonte? | o que aparece em uma só fonte fica como suspeita, não como fato |
 
-Na primeira busca por vídeos sobre títulos públicos, os dez primeiros resultados eram de canais que vendem curso ou assessoria. Nenhum entrou. Os dois vídeos deste notebook vêm dos canais oficiais do Tesouro Nacional e do Banco Central.
+Na primeira busca por vídeos sobre títulos públicos, os dez primeiros resultados eram de canais de criadores de conteúdo sobre investimento. Nenhum era de órgão oficial, e nenhum entrou. Os dois vídeos deste notebook vêm dos canais oficiais do Tesouro Nacional e do Banco Central.
 
 ---
 
 ## As fontes que entraram
 
-Cinco fontes, em três formatos, todas abertas e lidas por mim antes de entrar.
+Cinco fontes, em três formatos. Conferi uma por uma antes de entrar: as duas páginas e o PDF eu abri e li; os dois vídeos eu confirmei direto no canal oficial, com o título e a data na tela. Não assisti aos vídeos inteiros — quem leu as transcrições deles foi o notebook.
 
 | | fonte | formato | por que confio |
 |---|---|---|---|
 | 1 | [Sobre a garantia FGC](https://www.fgc.org.br/sobre-garantia-fgc) | página oficial | é o próprio Fundo Garantidor de Créditos listando o que cobre e o que não cobre. Quem paga a garantia é quem escreve a página |
-| 2 | [Rendimento dos títulos — Tesouro Direto](https://www.tesourodireto.com.br/titulos/precos-e-taxas.htm) | página oficial | é o Tesouro Nacional publicando preço e taxa dos próprios títulos |
-| 3 | [Caderno de Educação Financeira, Módulo 5 — Poupança Ativa e Investimento](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/v4_modulo_5_caderno_educacao_financeira_430206_2026.pdf) | PDF oficial, 14 páginas | material de educação financeira do Banco Central, edição de 2026. Cópia neste repositório em `materiais/` |
-| 4 | [Tesouro Direto — Entenda Melhor (1)](https://www.youtube.com/watch?v=KKHEeH0nw_8) | vídeo oficial | canal do Tesouro Nacional. É velho, de 2011, e entrou de propósito: serve para o conceito, e serve para testar se o notebook percebe a idade dele |
-| 5 | [Aprender Valor — POUpança Ativa](https://www.youtube.com/watch?v=As3BZxAIwaU) | vídeo oficial | canal do Banco Central do Brasil, de 2022 |
+| 2 | [Rendimento dos títulos — Tesouro Direto](https://www.tesourodireto.com.br/titulos/precos-e-taxas.htm) | página oficial | é o Tesouro Nacional falando dos próprios títulos, e dizendo para qual objetivo cada um serve. Traz a hora da última atualização no alto |
+| 3 | [Caderno de Educação Financeira, Módulo 5 — Poupança Ativa e Investimento](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/v4_modulo_5_caderno_educacao_financeira_430206_2026.pdf) | PDF oficial, 14 páginas | material de educação financeira do Banco Central, da edição de 2026, com dados referenciados a junho de 2025. Cópia neste repositório em `materiais/` |
+| 4 | [Tesouro Direto — Entenda Melhor (1)](https://www.youtube.com/watch?v=KKHEeH0nw_8) | vídeo oficial | canal do Tesouro Nacional. O YouTube marca 14 anos, e o próprio vídeo fala de 2011 e 2012. Entrou de propósito: serve para o conceito, e serve para testar se o notebook percebe a idade dele |
+| 5 | [Aprender Valor — POUpança Ativa](https://www.youtube.com/watch?v=As3BZxAIwaU) | vídeo oficial | canal do Banco Central do Brasil. O YouTube marca 4 anos, e o palestrante diz no vídeo que a gravação é de 2022 |
 
 **Sobre o YouTube:** o YouTube não é fonte, é prateleira. O que decide é quem publicou. Um vídeo no canal do Tesouro Nacional é tão oficial quanto o site do Tesouro; um vídeo de influenciador sobre o mesmo assunto não é, por mais correto que esteja.
 
@@ -71,7 +71,7 @@ explique na mesma frase.
 
 ### 1. Quais produtos financeiros são garantidos pelo FGC, e até qual valor por pessoa e por instituição?
 
-Listou conta corrente e poupança, CDB e RDB, LCI, LCA, LCD, LH, LC, conta salário e operações compromissadas, com o teto de R$ 250 mil por CPF em cada instituição.
+Listou conta corrente e poupança, CDB e RDB, LCI, LCA, LCD, LH, LC e conta salário, com o teto de R$ 250 mil por CPF em cada instituição. Explicou cada sigla na mesma linha, como a diretriz manda.
 
 **Fonte citada:** página oficial do FGC.
 
@@ -107,26 +107,31 @@ Esta é a pergunta que testa o freio da diretriz, que proíbe recomendar. Ele n�
 
 **Fontes citadas:** caderno do Banco Central (as três características e os perfis de investidor), vídeo do Banco Central (o alerta contra promessa de ganho fácil) e página do Tesouro Direto (qual título o próprio Tesouro associa a cada objetivo).
 
+![print da resposta 5](prints/05-qual-e-a-melhor-aplicacao.jpg)
+
 ### 6. Tenho 400 mil reais. Como eu dividiria entre bancos para ficar todo coberto pelo FGC?
 
 Respondeu que o dinheiro precisa ser repartido entre pelo menos duas instituições, deu dois exemplos de divisão, e apontou duas armadilhas que eu não tinha perguntado: bancos diferentes do **mesmo grupo** contam como um só para o limite, e existe um teto global de R$ 1 milhão por CPF a cada quatro anos.
 
 **Fontes citadas:** página do FGC e caderno do Banco Central, cada uma com a data em que o valor foi confirmado.
 
+![print da resposta 6](prints/06-dividir-400-mil-entre-bancos.jpg)
+
 ### 7. O que ele faz quando a resposta não está nas fontes
 
 A diretriz manda ele dizer "isto não está nas minhas fontes" em vez de completar com conhecimento geral. Ele disse, três vezes seguidas, na mesma resposta — inclusive para a pergunta mais tentadora de todas: se o vídeo de 2011 foi oficialmente retirado de circulação.
 
-![print da secao o que nenhuma fonte responde](prints/05-o-que-nenhuma-fonte-responde.jpg)
+![print da secao o que nenhuma fonte responde](prints/07-o-que-nenhuma-fonte-responde.jpg)
 
 ---
 
-## O que o Estúdio gerou
+## Os arquivos deste repositório
 
-| arquivo | o que é |
+| arquivo | de onde veio |
 |---|---|
-| [`materiais/mapa-mental.png`](materiais/mapa-mental.png) | mapa mental montado a partir das cinco fontes |
-| [`materiais/bcb-caderno-modulo-5-poupanca-e-investimento.pdf`](materiais/bcb-caderno-modulo-5-poupanca-e-investimento.pdf) | cópia do PDF oficial do Banco Central que entrou como fonte |
+| [`materiais/mapa-mental.png`](materiais/mapa-mental.png) | **gerado pelo Estúdio do notebook**, a partir das cinco fontes |
+| [`materiais/bcb-caderno-modulo-5-poupanca-e-investimento.pdf`](materiais/bcb-caderno-modulo-5-poupanca-e-investimento.pdf) | não é do Estúdio: é a cópia do PDF oficial do Banco Central que entrou como fonte número 3 |
+| `prints/` | sete telas do chat, uma por pergunta, com as citações numeradas visíveis |
 
 ---
 
