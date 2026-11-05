@@ -130,6 +130,7 @@ A diretriz manda ele dizer "isto não está nas minhas fontes" em vez de complet
 | arquivo | de onde veio |
 |---|---|
 | [`materiais/mapa-mental.png`](materiais/mapa-mental.png) | **gerado pelo Estúdio do notebook**, a partir das cinco fontes |
+| [`materiais/slides-onde-seu-dinheiro-esta-seguro.pdf`](materiais/slides-onde-seu-dinheiro-esta-seguro.pdf) | **gerado pelo Estúdio do notebook**: 12 slides em PDF, a partir das mesmas cinco fontes. Cada slide traz no rodapé de qual fonte veio o dado, com o ano, e o primeiro avisa que ali não há recomendação de investimento — o mesmo freio da diretriz |
 | [`materiais/bcb-caderno-modulo-5-poupanca-e-investimento.pdf`](materiais/bcb-caderno-modulo-5-poupanca-e-investimento.pdf) | não é do Estúdio: é a cópia do PDF oficial do Banco Central que entrou como fonte número 3 |
 | `prints/` | sete telas do chat, uma por pergunta, com as citações numeradas visíveis |
 
